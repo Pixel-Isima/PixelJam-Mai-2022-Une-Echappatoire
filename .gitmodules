@@ -1,3 +1,6 @@
 [submodule "GameJam1405"]
 	path = GameJam1405
 	url = https://github.com/pierrepebay/GameJam1405
+[submodule "jam_mai_2022"]
+	path = jam_mai_2022
+	url = https://gitlab.com/gagoi_/jam_mai_2022
