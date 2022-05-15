@@ -7,3 +7,6 @@
 [submodule "GameJam-14-05"]
 	path = PixelJam-Inca-Jump
 	url = https://github.com/Axpronnier/GameJam-14-05
+[submodule "PixelJam-Timescape"]
+	path = PixelJam-Timescape
+	url = https://github.com/SamuelFreydier/Timescape
