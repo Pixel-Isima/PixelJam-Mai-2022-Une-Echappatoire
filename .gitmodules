@@ -1,9 +1,9 @@
 [submodule "GameJam1405"]
-	path = GameJam1405
+	path = PixelJam-Corrida-Explorer
 	url = https://github.com/pierrepebay/GameJam1405
 [submodule "jam_mai_2022"]
-	path = jam_mai_2022
+	path = PixelJam-Crepe
 	url = https://gitlab.com/gagoi_/jam_mai_2022
 [submodule "GameJam-14-05"]
-	path = GameJam-14-05
+	path = PixelJam-Inca-Jump
 	url = https://github.com/Axpronnier/GameJam-14-05
